@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/WB_Healthbar.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/WB_Score.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Health_potion/health_potion.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Health_potion/elixirMat.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Health_potion/health_potion_texture_0.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Health_potion/health_potion_texture_1.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Health_potion/health_potion_texture_2.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Health_potion/health_potion_texture_3.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Health_potion/health_potion_texture_4.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Health_potion/health_potion_texture_5.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Health_potion/health_potion_texture_6.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Healthpack.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Health_potion/Plus.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Cute_Enemy_-_Slime/BigSlime1.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_CameraShake.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Cute_Enemy_-_Slime/cute_enemy_slime.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Cute_Enemy_-_Slime/cute_enemy_slime_texture_0.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Cute_Enemy_-_Slime/cute_enemy_slime_texture_1.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Cute_Enemy_-_Slime/cute_enemy_slime_texture_2.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Cute_Enemy_-_Slime/cute_enemy_slime_texture_3.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Cute_Enemy_-_Slime/cute_enemy_slime_texture_4.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Cute_Enemy_-_Slime/cute_enemy_slime_texture_5.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Cute_Enemy_-_Slime/cute_enemy_slime_texture_6.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Cute_Enemy_-_Slime/cute_enemy_slime_texture_7.uasset",
+				"E:/Unreal Engine/InfiniteMatrixStarter/Content/Fab/Cute_Enemy_-_Slime/SmallSlime1.uasset"
+			]
+		}
+	]
+}
